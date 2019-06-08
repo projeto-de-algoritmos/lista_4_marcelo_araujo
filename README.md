@@ -8,3 +8,5 @@ e as notas que você deu
 
 Então o programa vai te recomendar as séries que o outro usuário deu nota boa
 e você ainda não deu nota
+
+Informações adicionais são mostradas no terminal
